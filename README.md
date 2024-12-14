@@ -9,3 +9,8 @@ https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5/
 Chicago:
 https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5/data_preview
 
+Architecture Diagram:
+
+![image](https://github.com/user-attachments/assets/fb1d9ad6-a48e-42ac-a253-04b672186ded)
+
+
